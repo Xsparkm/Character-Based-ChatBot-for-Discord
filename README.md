@@ -61,4 +61,4 @@ This is a character-based chatbot designed for Discord. It leverages a JSON file
 
 Run the bot with the following command:
 ```bash
-python bot.py
+python main.py
