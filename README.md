@@ -20,7 +20,7 @@ This is a character-based chatbot designed for Discord. It leverages a JSON file
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/character-based-chatbot.git
+    git clone https://github.com/Xsparkm/Character-Based-ChatBot-for-Discord.git
     cd character-based-chatbot
     ```
 
