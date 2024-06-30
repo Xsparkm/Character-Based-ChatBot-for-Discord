@@ -40,7 +40,7 @@ This is a character-based chatbot designed for Discord. It leverages a JSON file
     TOKEN=your_discord_bot_token
     ```
 
-5. Create a JSON knowledge base file (`depressed.json`) with the following structure:
+5. Create a JSON knowledge base file (`knowledge_base.json`) with the following structure:
     ```json
     {
         "questions": [
